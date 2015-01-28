@@ -333,7 +333,9 @@
   }
 
   .logotw {
-    opacity: 70%;
+
     width: 40%;
     margin-top: 10px;
+    opacity: 0.6;
+    filter: alpha(opacity=60); /* For IE8 and earlier */
   }
