@@ -331,3 +331,9 @@
   .fa-linkedin-square:hover {
     color: #4b4b4b;
   }
+
+  .logotw {
+    opacity: 70%;
+    width: 40%;
+    margin-top: 10px;
+  }
